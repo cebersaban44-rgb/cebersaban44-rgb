@@ -12,7 +12,7 @@ I have been building websites, online stores and business software since 2015, f
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg">
-  <img src="assets/cards-light.svg" width="100%" alt="What I build. Web products for businesses: online stores with B2B dealer portals and online payments, admin panels, internal tools such as a CRM, and multilingual corporate websites. Desktop software: Keymotion, a free, open-source Windows app for controlling a mechanical keyboard, built with Rust, Tauri 2 and React. Hosting and operations: Linux servers, deployments, backups, monitoring and security updates.">
+  <img src="assets/cards-light.svg" width="100%" alt="What I build. Web products for businesses: online stores with B2B dealer portals and online payments, admin panels, CRMs and multilingual corporate websites. Desktop software: Keymotion, a free, open-source Windows app for controlling a mechanical keyboard, built with Rust, Tauri 2 and React. Hosting and operations: Linux servers, deployments, backups, monitoring and security updates.">
 </picture>
 
 <a href="https://cebersaban44-rgb.github.io/keymotion/">
