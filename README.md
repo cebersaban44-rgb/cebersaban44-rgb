@@ -1,19 +1,31 @@
-### Hi, I'm Şaban 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Şaban Çeber, full-stack developer in Kraków, Poland. Open to work. Web products for businesses and desktop software, built with AI agents and tested before they ship.">
+</picture>
 
-Full-stack developer based in Kraków, Poland. I build web products end to end and run them in production on my own infrastructure.
+I have been building websites, online stores and business software since 2015, first at digital agencies in Istanbul and, since 2023, as an independent developer. I take a product from the first conversation to production and keep it running after launch.
 
- **Front to back** — React, Next.js and TypeScript on the front; Node, Supabase and PostgreSQL on the back.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <img src="assets/pipeline-light.svg" width="100%" alt="How I ship: plan, build with AI agents, review, test, release. AI coding agents write much of the code; the architecture, the plan for each change, the review rules, the tests and the release process are mine.">
+</picture>
 
- **Ops included** — I deploy and run what I build: Linux VPS, Nginx, Docker, PM2, CI/CD and automated SSL.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg">
+  <img src="assets/cards-light.svg" width="100%" alt="What I build. Web products for businesses: online stores with B2B dealer portals and online payments, admin panels, CRMs and multilingual corporate websites. Desktop software: Keymotion, a free, open-source Windows app for controlling a mechanical keyboard, built with Rust, Tauri 2 and React. Hosting and operations: Linux servers, deployments, backups, monitoring and security updates.">
+</picture>
 
- **Agent infrastructure** — I run my own MCP servers and agent tooling (Claude Code, Codex) in production under PM2, not as a local toy.
+<a href="https://cebersaban44-rgb.github.io/keymotion/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/keymotion-dark.svg">
+    <img src="assets/keymotion-light.svg" width="100%" alt="Keymotion: a free, open-source Windows app for controlling a mechanical keyboard without the maker's software. Lighting, key mapping, macros and the keyboard's own screen. Built with Rust, Tauri 2, React and TypeScript. Website and user guide.">
+  </picture>
+</a>
 
- **Recently** — a production e-commerce platform with role-based access, a B2B dealer portal and an admin back-office, plus client sites, all self-hosted.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Tech I reach for: TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Rust, Tauri, Docker, Nginx, Linux.">
+</picture>
 
-A few things I've built and run are pinned below.
-
-**Tech I reach for**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-
- **[LinkedIn](https://www.linkedin.com/in/sabanceber)** · Open to full-stack roles in Kraków, hybrid or remote.
+Most of my client work lives in private repositories. Keymotion is open source and pinned below.<br>
+**[LinkedIn](https://www.linkedin.com/in/sabanceber)** · Open to full-stack roles in Kraków, hybrid or remote, and to contract work.
