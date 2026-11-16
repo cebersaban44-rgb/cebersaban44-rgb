@@ -22,10 +22,14 @@ I have been building websites, online stores and business software since 2015, f
   </picture>
 </a>
 
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9NL03GDZZ0ZS?referrer=appbadge&amp;mode=full"><picture><source media="(prefers-color-scheme: dark)" srcset="https://get.microsoft.com/images/en-us%20light.svg"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get Keymotion from Microsoft" height="40"></picture></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img src="assets/stack-light.svg" width="100%" alt="Tech I reach for: TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Rust, Tauri, Docker, Nginx, Linux.">
 </picture>
 
-Most of my client work lives in private repositories. Keymotion is open source and pinned below.<br>
+Most of my client work lives in private repositories. Keymotion is open source, pinned below and in the Microsoft Store.<br>
 **[LinkedIn](https://www.linkedin.com/in/sabanceber)** · Open to full-stack roles in Kraków, hybrid or remote, and to contract work.
