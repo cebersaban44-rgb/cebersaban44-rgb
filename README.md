@@ -18,18 +18,14 @@ I have been building websites, online stores and business software since 2015, f
 <a href="https://cebersaban44-rgb.github.io/keymotion/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/keymotion-dark.svg">
-    <img src="assets/keymotion-light.svg" width="100%" alt="Keymotion: a free, open-source Windows app for controlling a mechanical keyboard without the maker's software. Lighting, key mapping, macros and the keyboard's own screen. Built with Rust, Tauri 2, React and TypeScript. Website and user guide.">
+    <img src="assets/keymotion-light.svg" width="100%" alt="Keymotion: a free, open-source Windows app for controlling a mechanical keyboard without the maker's software. Lighting, key mapping, macros and the keyboard's own screen. In the Microsoft Store. Built with Rust, Tauri 2, React and TypeScript. Website and user guide.">
   </picture>
 </a>
-
-<p align="center">
-  <a href="https://apps.microsoft.com/detail/9NL03GDZZ0ZS?referrer=appbadge&amp;mode=full"><picture><source media="(prefers-color-scheme: dark)" srcset="https://get.microsoft.com/images/en-us%20light.svg"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get Keymotion from Microsoft" height="40"></picture></a>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img src="assets/stack-light.svg" width="100%" alt="Tech I reach for: TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Rust, Tauri, Docker, Nginx, Linux.">
 </picture>
 
-Most of my client work lives in private repositories. Keymotion is open source, pinned below and in the Microsoft Store.<br>
+Most of my client work lives in private repositories. Keymotion is open source, pinned below and in the [Microsoft Store](https://apps.microsoft.com/detail/9NL03GDZZ0ZS).<br>
 **[LinkedIn](https://www.linkedin.com/in/sabanceber)** · Open to full-stack roles in Kraków, hybrid or remote, and to contract work.
